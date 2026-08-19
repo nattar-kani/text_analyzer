@@ -6,12 +6,12 @@ The Text Analyzer processes user-provided text through a simple pipeline:
 
 - Input handling – accepts text from the user.
 - Input validation – checks whether text has been provided.
-Sentence count – calculates the number of sentences.
-Normalization & tokenization – removes punctuation, converts text to lowercase, and splits it into words.
-Word frequency – counts how often each word appears and displays the results in descending order.
-Top n words – identifies the most frequently repeated words.
-Top n-grams – finds frequently occurring word combinations such as bigrams.
-Reading score – calculates readability using the Flesch Reading Ease formula.
+- Sentence count – calculates the number of sentences.
+- Normalization & tokenization – removes punctuation, converts text to lowercase, and splits it into words.
+- Word frequency – counts how often each word appears and displays the results in descending order.
+- Top n words – identifies the most frequently repeated words.
+- Top n-grams – finds frequently occurring word combinations such as bigrams.
+- Reading score – calculates readability using the Flesch Reading Ease formula.
 
 ## Processing flow
 
