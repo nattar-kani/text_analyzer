@@ -4,8 +4,8 @@ A simple Python text analyzer built as part of my 10 Week AI Challenge to streng
 ## What it does?
 The Text Analyzer processes user-provided text through a simple pipeline:
 
-Input handling – accepts text from the user.
-Input validation – checks whether text has been provided.
+- Input handling – accepts text from the user.
+- Input validation – checks whether text has been provided.
 Sentence count – calculates the number of sentences.
 Normalization & tokenization – removes punctuation, converts text to lowercase, and splits it into words.
 Word frequency – counts how often each word appears and displays the results in descending order.
